@@ -8,7 +8,7 @@ import styles from './navbar.module.css'
 const links = [
   {
     id: 1,
-    title: "Home",
+    title: "Inicio",
     url: "/"
   },
   {
@@ -23,12 +23,12 @@ const links = [
   },
   {
     id: 4,
-    title: "About",
+    title: "Sobre",
     url: "/about"
   },
   {
     id: 5,
-    title: "Contact",
+    title: "Contato",
     url: "/contact"
   },
   {
